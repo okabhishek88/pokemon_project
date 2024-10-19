@@ -1,0 +1,89 @@
+body {
+  background-color: blanchedalmond;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.data_pokemon_container {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.data_pokemon {
+  background-color: #30a7d7;
+  color: black;
+  border-radius: 10px;
+  padding: 1rem;
+  display: none;
+  width: 50%;
+  height: auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7); 
+}
+
+.dancing-pikachu {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+  height: auto;
+}
+
+.photo img {
+  margin-right: 4rem;
+  max-height: 400px;
+}
+
+h1,
+input {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+#search-button {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+/* Hover effect */
+#search-button:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+}
+
+/* Focus effect */
+#search-button:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.data {
+  margin: 0 auto;
+  width: 50%;
+  background-color: blanchedalmond;
+  height: 500px
+}
+
+input {
+  width: 100%;
+  max-width: 400px;
+  height: 50px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 2rem;
+  outline: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s, box-shadow 0.3s;
+  display: block;
+  margin: 0 auto;
+}
