@@ -1,4 +1,4 @@
-# Pokémon API-powered App 🐾
+# 🚀 Pokémon API-powered App 🐾
 
 ## Overview
 The **Pokémon API-powered App** allows users to search for detailed information about any Pokémon.This app enables users to search for Pokémon by name and view various details such as type, abilities, stats, moves, and more.
@@ -20,7 +20,7 @@ The **Pokémon API-powered App** allows users to search for detailed information
 
 ---
 
-## Demo
+## 🎯 Demo
 
 Check out the live demo of the **Pokémon API-powered App**!  
 Search for any Pokémon and explore its details.
@@ -29,7 +29,7 @@ Search for any Pokémon and explore its details.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 Here are some screenshots of the **Random Password Generator** app in action:
 
